@@ -13,9 +13,6 @@
         android:theme="@style/Theme.ArithmeticAppProject3TristanDearborn"
         tools:targetApi="31">
         <activity
-            android:name=".finishScreen"
-            android:exported="false" />
-        <activity
             android:name=".Actual"
             android:exported="false" />
         <activity
